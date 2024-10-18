@@ -1,0 +1,1 @@
+web: streamlit run image_analysis.py --server.headless true  --browser.gatherUsageStats false --server.enableWebsocketCompression=false --server.port 8501

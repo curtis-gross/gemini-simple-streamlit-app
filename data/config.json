@@ -1,0 +1,53 @@
+{
+    "demo_mode": false,
+    "sleep_time": 3,
+    "logo_path": "https://storage.googleapis.com/mcd-upload-321dsf/cymbal.png",
+    "logo_width": 200,
+    "company": "Cymbal",
+    "brand_names": [
+        "cymbal",
+        "special healthy menu item name",
+        "special sandwich name"
+    ],
+    "region": "us-central1",
+    "imagen_version": "imagen-3.0-generate-001",
+    "model": "gemini-1.5-pro",
+    "focus_products": "Cymbal",
+    "customer_tags": [
+        "Sandwiches",
+        "Breakfast",
+        "Burgers",
+        "Healthy",
+        "Fries",
+        "Sweets",
+        "Meal Deals"
+    ],
+    "p41": "p4Burgers",
+    "p42": "p4Meals",
+    "p43": "p4Healthy",
+    "shelf_keywords": [
+        "cymbal",
+        "shelf"
+    ],
+    "influencer_vids": [
+        "influencer",
+        "cymbal"
+    ],
+    "ad_keywords": [
+        "ad",
+        "cymbal"
+    ],
+    "checklist_keys": [
+        "receipe",
+        "cymbal"
+    ],
+    "pharmacy_keys": [
+        "pharmacy",
+        "cymbal"
+    ],
+    "burgerprep_keys": [
+        "prep",
+        "cymbal"
+    ],
+    "contentUrls": "/menu/burgers,\n/menu/breakfast,\n/menu/meals,\n/menu/healthy,\n/menu/sweetsandtreats,\n/menu/drinks,\n/menu/sides\n"
+}
