@@ -146,7 +146,6 @@ with row1_1:
         },
           "datetime": {
           "type": "number",  
-          "format": "float", 
           "description": "a datetime timestamp in the format of the current epoch time for when the json was created"
         },
         "noStock": {
